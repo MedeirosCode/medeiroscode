@@ -1,6 +1,6 @@
 <h1>Olá! Eu sou o Christian Medeiros!</h1>
 <p align="">
-💻 Desenvolvedor FullStack JS<br/>
+💻 Desenvolvedor Mobile<br/>
 🖱️ Atualmente buscando minha primeira oportunidade.<br/>
 💡 Meu Portfólio <a href="https://" target="blank">EM CONTRUÇÃO</a>
 </p>
